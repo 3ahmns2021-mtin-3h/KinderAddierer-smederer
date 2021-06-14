@@ -36,4 +36,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by smeerws
+Copyright by smederer
